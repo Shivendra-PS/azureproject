@@ -1,0 +1,9 @@
+{
+	"name": "factoryazureproject-shiv",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "80a91b41-d71a-4fc1-81ad-efa4e2c9cd53",
+		"tenantId": "024a642a-5a9c-49ac-a9a6-222b86465174"
+	}
+}
