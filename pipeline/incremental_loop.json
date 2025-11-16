@@ -15,7 +15,7 @@
 					"isSequential": true,
 					"activities": [
 						{
-							"name": "ifIncrementalData_copy1",
+							"name": "ifIncrementalData",
 							"type": "IfCondition",
 							"dependsOn": [
 								{
@@ -33,7 +33,7 @@
 								},
 								"ifFalseActivities": [
 									{
-										"name": "DeleteEmptyFile_copy1",
+										"name": "DeleteEmptyFile",
 										"type": "Delete",
 										"dependsOn": [],
 										"policy": {
